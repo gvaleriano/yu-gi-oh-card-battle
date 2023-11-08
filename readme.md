@@ -1,6 +1,6 @@
 # Yu-Gi-Oh | Jo-ken-po Edition - DIO 
 
-Jogo de jokenpo que criei para solidificar conceitos de lógica de programação aplicados a jogos
+Jogo de jokenpo criado para solidificar conceitos de lógica de programação aplicados a jogos
 
 conceitos abordados:
 
